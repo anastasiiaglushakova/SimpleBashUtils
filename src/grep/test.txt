@@ -1,0 +1,10 @@
+Pattern at the start
+another line with pattern
+This line has nothing
+PATTERN in uppercase
+something else entirely
+pattern in the middle of the line
+Just a normal line
+PaTtErN with mixed case
+Yet another line
+Last line with pattern

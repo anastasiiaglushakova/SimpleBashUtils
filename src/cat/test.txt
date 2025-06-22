@@ -1,0 +1,7 @@
+First line with text
+Second line with a tab	character
+Third line with special char: \x7F
+
+   
+Fourth line after blank lines
+Line with non-printable: 
